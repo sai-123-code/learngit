@@ -1,2 +1,2 @@
 # learngit
-test files for learning github
+test files for learning githuband accesing it from remote repository
